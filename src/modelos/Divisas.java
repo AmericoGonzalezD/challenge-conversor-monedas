@@ -19,10 +19,4 @@ public class Divisas {
         return nombreDivisa;
     }
 
-    @Override
-    public String toString() {
-        return "Divisas disponibles" +
-                "valoresConversion=" + valoresConversion +
-                '}';
-    }
 }
